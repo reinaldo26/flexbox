@@ -1,6 +1,6 @@
 # Frontbox
 
-Project built with HTML / CSS, using Flexbox. flexbox. 
+Project built with HTML / CSS, using Flexbox. 
 
 
 
