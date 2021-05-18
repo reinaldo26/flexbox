@@ -1,6 +1,6 @@
 # Frontbox
 
-Project built with HTML / CSS, using Flexbox. 
+https://reinaldo26.github.io/frontbox/
 
 
 
